@@ -7,7 +7,7 @@ SO THAT I can gauge my progress compared to my peers
 Created by me using VS Code.
 
 ## Link to the site
-
+https://starkoiii.github.io/code-quiz2/
 
 ## Link to site repository
 https://github.com/Starkoiii/code-quiz2
